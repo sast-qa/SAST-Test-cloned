@@ -29,6 +29,6 @@
     "enableRemediation": false,
     "incrementalScan": true,
     "snippetSize": 0,
-    "baseBranches": []
+    "baseBranches": ["main"]
   }
 }
